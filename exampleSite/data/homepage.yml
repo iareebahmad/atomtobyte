@@ -1,0 +1,103 @@
+####################### Banner #########################
+banner:
+  title : "Because Education Is Ubiquitous"
+  image : "images/small.svg"
+  content : "<br><br>Atom To Byte is a social service community dedicated to make computer education ubiquitous and to spread the awareness among the people about the need to know the computers. We focus mainly on the students who are not having adequate resources to study computers. We, as a team work for bringing small but significant changes in the society, so that the people could develop scientific thinking and approach to solve their day to day tasks. We believe in the upcoming and ever-growing technologies such as Artificial Intelligence,  Big Data and Cyber Security. This step may seem to be small, but is significant and with our dedicated team of volunteers, we can do wonders.<br><br>"
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "#"
+
+##################### Feature ##########################
+feature:
+  enable : true
+  title : "Our works"
+  feature_item:
+    # feature item loop
+    - name : "Modules"
+      icon : "ti-book"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      
+    # feature item loop
+    - name : "Outreach"
+      icon : "ti-location-pin"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      
+    # feature item loop
+    - name : "Social"
+      icon : "ti-user"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      
+    # feature item loop
+    - name : "Articles"
+      icon : "ti-pencil"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      
+    # feature item loop
+    - name : "Awareness"
+      icon : "ti-eye"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      
+    # feature item loop
+    - name : "Community"
+      icon : "ti-world"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      
+
+
+######################### Service #####################
+service:
+  enable : true
+  service_item:
+    # service item loop
+    - title : "It is the most advanced digital marketing and it company."
+      images:
+      - "images/service-1.png"
+      - "images/service-2.png"
+      - "images/service-3.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+        
+    # service item loop
+    - title : "It is a privately owned Information and cyber security company"
+      images:
+      - "images/service-1.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+        
+    # service item loop
+    - title : "It’s a team of experienced and skilled people with distributions"
+      images:
+      - "images/service-2.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+        
+    # service item loop
+    - title : "A company standing different from others"
+      images:
+      - "images/service-3.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+        
+##################### Call to action #####################
+call_to_action:
+  enable : true
+  title : "Ready to get started?"
+  image : "images/last.jpeg"
+  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "contact"
