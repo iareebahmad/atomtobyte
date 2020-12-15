@@ -1,8 +1,8 @@
 ---
-title: "Pump-up the team morale and celebrate the excellence"
+title: "Lecture modules for Computer Programming"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/post-2.jpg"
+image: "images/blog/p2.png"
 # post type (regular/featured)
 type: "regular"
 # meta description

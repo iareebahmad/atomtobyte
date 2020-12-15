@@ -1,8 +1,8 @@
 ---
-title: "screens with built in Present and Dismiss animations."
+title: "Participation Events"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/post-3.jpg"
+image: "images/blog/p3.png"
 # post type (regular/featured)
 type: "regular"
 # meta description
