@@ -2,66 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atom To Byte</title>
-    <link>https://atomtobyte.netlify.app/</link>
+    <link>/</link>
     <description>Recent content on Atom To Byte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate>
     
-	<atom:link href="https://atomtobyte.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>President</title>
+      <link>/members/name1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/members/name1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vice-President</title>
+      <link>/members/name2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/members/name2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lead</title>
+      <link>/members/name3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/members/name3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>/members/name4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/members/name4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Curated modules on Computer Basics</title>
-      <link>https://atomtobyte.netlify.app/blog/post-6/</link>
+      <link>/blog/post-6/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/blog/post-6/</guid>
+      <guid>/blog/post-6/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>Discussions on social topics</title>
-      <link>https://atomtobyte.netlify.app/blog/post-4/</link>
+      <link>/blog/post-4/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/blog/post-4/</guid>
+      <guid>/blog/post-4/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>Lecture modules for Computer Programming</title>
-      <link>https://atomtobyte.netlify.app/blog/post-2/</link>
+      <link>/blog/post-2/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/blog/post-2/</guid>
+      <guid>/blog/post-2/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>Participation Events</title>
-      <link>https://atomtobyte.netlify.app/blog/post-3/</link>
+      <link>/blog/post-3/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/blog/post-3/</guid>
+      <guid>/blog/post-3/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>Social Talks</title>
-      <link>https://atomtobyte.netlify.app/blog/post-1/</link>
+      <link>/blog/post-1/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/blog/post-1/</guid>
+      <guid>/blog/post-1/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>Video Lecture series on Cyber Awareness</title>
-      <link>https://atomtobyte.netlify.app/blog/post-5/</link>
+      <link>/blog/post-5/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/blog/post-5/</guid>
+      <guid>/blog/post-5/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
