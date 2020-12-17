@@ -13,6 +13,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 # unsafe html
+handle = "Home"
 [markup.goldmark.renderer]
 unsafe = true
 
@@ -41,24 +42,29 @@ link = "plugins/slick/slick.min.js"
 
 # main menu
 [[menu.main]]
+name = "Home"
+URL = ""
+weight = 1
+
+[[menu.main]]
 name = "Events"
 URL = "blog"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "Members"
 URL = "members"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "FAQ"
 URL = "faq"
-weight = 4
+weight = 5
 
 
 # Support 
@@ -102,19 +108,15 @@ link = "contact"
 
   
 ############################# social site ########################
+
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "skype"
-icon = "ti-skype" # themify icon : https://themify.me/themify-icons
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
