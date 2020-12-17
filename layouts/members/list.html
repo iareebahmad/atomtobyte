@@ -7,7 +7,7 @@
         <div class="row">
             {{ range .Pages.ByWeight }}
             <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="flip-card">
+                <div class="flip-card mx-auto">
 	                <div class="flip-card-inner">
 	                    <div class="flip-card-front">
 	                        <img src="{{ .Params.image | absURL }}" alt="{{.Name}}" height="200" width="200" class="profile">
@@ -15,6 +15,7 @@
 	                    <div class="flip-card-back align-items-center">
 	                        <h2>{{ .Params.name }} </h2>
 	                        <h4>{{ .Title }} </h4>
+	                        <br>
 	                        <div class="social-icons-flip">
 	                            <a href="{{ .Params.linkedin | safeURL }}" target="_blank"><i class="ti-linkedin"></i></a>
 	                            <a href="{{ .Params.github | safeURL }}" target="_blank"><i class="ti-github"></i></a>
