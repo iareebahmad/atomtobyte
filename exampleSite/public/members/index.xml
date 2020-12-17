@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on Atom To Byte</title>
-    <link>/members/</link>
+    <link>https://atomtobyte.netlify.app/members/</link>
     <description>Recent content in Members on Atom To Byte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/members/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atomtobyte.netlify.app/members/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>President</title>
-      <link>/members/name1/</link>
+      <link>https://atomtobyte.netlify.app/members/name1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/members/name1/</guid>
+      <guid>https://atomtobyte.netlify.app/members/name1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vice-President</title>
-      <link>/members/name2/</link>
+      <link>https://atomtobyte.netlify.app/members/name2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/members/name2/</guid>
+      <guid>https://atomtobyte.netlify.app/members/name2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lead</title>
-      <link>/members/name3/</link>
+      <link>https://atomtobyte.netlify.app/members/name3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/members/name3/</guid>
+      <guid>https://atomtobyte.netlify.app/members/name3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Member</title>
-      <link>/members/name4/</link>
+      <link>https://atomtobyte.netlify.app/members/name4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/members/name4/</guid>
+      <guid>https://atomtobyte.netlify.app/members/name4/</guid>
       <description></description>
     </item>
     

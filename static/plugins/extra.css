@@ -44,7 +44,11 @@
   transform: rotateY(180deg);
 }
 
-.flip-card-back h2,h4{
+.flip-card-back h2{
+  color: #1686DA;
+}
+
+.flip-card-back h4{
   color: #1686DA;
 }
 
@@ -59,7 +63,7 @@
     height: 35px;
     width: 35px;
     line-height: 35px;
-    border: 1px solid #00a99d;
+    border: 1px solid #1686DA;
     border-radius: 50%;
     display: block;
 }
