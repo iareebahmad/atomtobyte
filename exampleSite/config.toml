@@ -98,7 +98,7 @@ copyright = ""
 #Preloader
 [params.preloader]
 enable = true
-preloader = "images/icon.svg" # use jpg, png, svg or gif format...
+preloader = "images/icon.png" # use jpg, png, svg or gif format...
 
 # Navigation buttons
 [params.navigation_button]

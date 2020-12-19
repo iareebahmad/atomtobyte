@@ -7,9 +7,8 @@ draft: false
 ---
 
 
-### Contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+### Contact us
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Phone: +91 93040 29715** 
+* **Mail: atomtobyte@gmail.com**
+

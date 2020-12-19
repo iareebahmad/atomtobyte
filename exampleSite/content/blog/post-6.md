@@ -1,8 +1,8 @@
 ---
-title: "Curated modules on Computer Basics"
+title: "Computer Basics"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/p6.png"
+image: "images/blog/p6.jpeg"
 # post type (regular/featured)
 type: "regular"
 # meta description

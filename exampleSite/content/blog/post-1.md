@@ -2,7 +2,7 @@
 title: "Social Talks"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/p1.png"
+image: "images/blog/p1.jpeg"
 # post type (regular/featured)
 type: "featured"
 # meta description

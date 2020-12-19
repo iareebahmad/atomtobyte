@@ -1,18 +1,26 @@
 {{ "<!-- navigation -->" | safeHTML }}
-<header class="navigation" style="background-color: #dff2ff">
-  <div class="container">
+<header class="navigation" style="background-color: #1686da">
+    {{ $address := .URL}}
+    {{ if eq (len .URL) 1}}
+    {{ $address = substr .URL 1}}
+    {{ else }}
+    {{ $address = substr .URL 1 -1}}
+    {{ end }}
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
       <a class="navbar-brand" href="{{ site.BaseURL }}">
         {{ with site.Params.logo}}
-        <img class="img-fluid" height="100" width="150" src="{{ . | absURL }}" alt="{{ site.Title }}">
+        <img class="img-fluid" style="padding-bottom: 11px" height="100" width="150" src="{{ . | absURL }}" alt="{{ site.Title }}">
         {{ else }}{{site.Title}}{{end}}
       </a>
       <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
-        <i class="ti-menu h3"></i>
+        <i class="ti-menu h2" onmouseover="this.style.color='white';" onmouseout="this.style.color='inherit';"></i>
       </button>
 
       <div class="collapse navbar-collapse" id="navigation">
+        
+
+
         <ul style="font-size: 1.5em" class="navbar-nav ml-auto">
           {{ range site.Menus.main }}
           {{ if .HasChildren }}
@@ -27,14 +35,21 @@
             </div>
           </li>
           {{ else }}
+          {{ if eq $address .URL }}
+          <li class="nav-item current-link">
+            <a class="nav-link current-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
+          </li>
+          {{ else }}
           <li class="nav-item">
             <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
-          </li>
+          </li>{{ end }}
           {{ end }}
           {{ end }}
         </ul>
+      
+
+
       </div>
     </nav>
-  </div>
 </header>
 {{ "<!-- /navigation -->" | safeHTML }}

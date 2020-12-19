@@ -1,8 +1,8 @@
 ---
-title: "Video Lecture series on Cyber Awareness"
+title: "Cyber Awareness"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/p5.png"
+image: "images/blog/p5.jpeg"
 # post type (regular/featured)
 type: "regular"
 # meta description
