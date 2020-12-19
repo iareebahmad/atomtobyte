@@ -12,43 +12,169 @@
     
     
     <item>
-      <title>President</title>
-      <link>https://atomtobyte.netlify.app/members/name1/</link>
+      <title>Advisor</title>
+      <link>https://atomtobyte.netlify.app/members/1anam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/name1/</guid>
+      <guid>https://atomtobyte.netlify.app/members/1anam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Founder</title>
+      <link>https://atomtobyte.netlify.app/members/2areeb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/2areeb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-founder</title>
+      <link>https://atomtobyte.netlify.app/members/3venky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/3venky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>President</title>
+      <link>https://atomtobyte.netlify.app/members/4priyam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/4priyam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mgmt. Executive</title>
+      <link>https://atomtobyte.netlify.app/members/5yashaswi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/5yashaswi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vice-President</title>
-      <link>https://atomtobyte.netlify.app/members/name2/</link>
+      <link>https://atomtobyte.netlify.app/members/6mahwish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/name2/</guid>
+      <guid>https://atomtobyte.netlify.app/members/6mahwish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lead</title>
-      <link>https://atomtobyte.netlify.app/members/name3/</link>
+      <link>https://atomtobyte.netlify.app/members/7priya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/name3/</guid>
+      <guid>https://atomtobyte.netlify.app/members/7priya/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/name4/</link>
+      <link>https://atomtobyte.netlify.app/members/8muskan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/name4/</guid>
+      <guid>https://atomtobyte.netlify.app/members/8muskan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Curated modules on Computer Basics</title>
+      <title>President</title>
+      <link>https://atomtobyte.netlify.app/members/9karan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/9karan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>President</title>
+      <link>https://atomtobyte.netlify.app/members/10princy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/10princy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>President</title>
+      <link>https://atomtobyte.netlify.app/members/11guthlu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/11guthlu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>President</title>
+      <link>https://atomtobyte.netlify.app/members/12lokesh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/12lokesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>President</title>
+      <link>https://atomtobyte.netlify.app/members/13nishant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/13nishant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>President</title>
+      <link>https://atomtobyte.netlify.app/members/14sannu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/14sannu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>President</title>
+      <link>https://atomtobyte.netlify.app/members/15avinash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/15avinash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>President</title>
+      <link>https://atomtobyte.netlify.app/members/16abhinay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/16abhinay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>President</title>
+      <link>https://atomtobyte.netlify.app/members/17himanshu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/17himanshu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>President</title>
+      <link>https://atomtobyte.netlify.app/members/18priyanka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/18priyanka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Basics</title>
       <link>https://atomtobyte.netlify.app/blog/post-6/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
@@ -57,16 +183,7 @@
     </item>
     
     <item>
-      <title>Discussions on social topics</title>
-      <link>https://atomtobyte.netlify.app/blog/post-4/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/blog/post-4/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
-    </item>
-    
-    <item>
-      <title>Lecture modules for Computer Programming</title>
+      <title>Computer Programming</title>
       <link>https://atomtobyte.netlify.app/blog/post-2/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
@@ -75,11 +192,29 @@
     </item>
     
     <item>
-      <title>Participation Events</title>
+      <title>Cyber Awareness</title>
+      <link>https://atomtobyte.netlify.app/blog/post-5/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/blog/post-5/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Outreach Events</title>
       <link>https://atomtobyte.netlify.app/blog/post-3/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
       <guid>https://atomtobyte.netlify.app/blog/post-3/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Participation Events</title>
+      <link>https://atomtobyte.netlify.app/blog/post-4/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/blog/post-4/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
@@ -89,15 +224,6 @@
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
       <guid>https://atomtobyte.netlify.app/blog/post-1/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
-    </item>
-    
-    <item>
-      <title>Video Lecture series on Cyber Awareness</title>
-      <link>https://atomtobyte.netlify.app/blog/post-5/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/blog/post-5/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     

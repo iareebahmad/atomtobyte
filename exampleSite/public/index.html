@@ -51,23 +51,33 @@
 <!-- navigation -->
 <header class="navigation" style="background-color: #1686da">
     
+    
+    
+    
+    
     <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
       <a class="navbar-brand" href="https://atomtobyte.netlify.app/">
         
-        <img class="img-fluid" height="100" width="150" src="https://atomtobyte.netlify.app/images/logo.png" alt="Atom To Byte">
+        <img class="img-fluid" style="padding-bottom: 11px" height="100" width="150" src="https://atomtobyte.netlify.app/images/logo.png" alt="Atom To Byte">
         
       </a>
       <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
-        <i class="ti-menu h3"></i>
+        <i class="ti-menu h2" onmouseover="this.style.color='yellow';" onmouseout="this.style.color='white';"></i>
       </button>
 
       <div class="collapse navbar-collapse" id="navigation">
+        
+
+
         <ul style="font-size: 1.5em" class="navbar-nav ml-auto">
           
           
-          <li class="nav-item">
-            <a class="nav-link" href="https://atomtobyte.netlify.app/">Home</a>
+          
+          <li class="nav-item current-link">
+            <a class="nav-link current-link" href="https://atomtobyte.netlify.app/">Home</a>
           </li>
+          
+          
           
           
           
@@ -77,9 +87,11 @@
           
           
           
+          
           <li class="nav-item">
             <a class="nav-link" href="https://atomtobyte.netlify.app/members">Members</a>
           </li>
+          
           
           
           
@@ -89,12 +101,16 @@
           
           
           
+          
           <li class="nav-item">
             <a class="nav-link" href="https://atomtobyte.netlify.app/faq">FAQ</a>
           </li>
           
           
         </ul>
+      
+
+
       </div>
     </nav>
 </header>
@@ -329,12 +345,12 @@
 
 
 
-<footer class="bg-light section pb-0">
+<footer style="background-color: #1686DA !important;" class="bg-light section pb-0">
   <div class="container">
     <div class="row">
       
       <div class="col-md-6 col-sm-6 mb-5">
-        <h3 class="mb-4">Support</h3>
+        <h3 style="color: white !important" class="mb-4">Support</h3>
         <ul class="list-unstyled footer-list">
           
           <li><a href="https://atomtobyte.netlify.app/faq">FAQ</a></li>
@@ -347,7 +363,7 @@
       </div>
       <div class="col-md-6 col-sm-6 mb-5" style="text-align: center">
         <a class="d-block mb-3" href="https://atomtobyte.netlify.app/"><img height="150" width="100" class="img-fluid" src="https://atomtobyte.netlify.app/images/logo.png" alt="Atom To Byte"></a>
-        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.</p>
+        <p style="color: white !important" class="mb-4">Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.</p>
         
         <ul class="list-inline social-icons">
           
@@ -359,9 +375,6 @@
           
         </ul>
       </div>
-    </div>
-    <div class="border-top border-default text-center py-4 mt-4">
-      <small class="content"></small>
     </div>
   </div>
 </footer>

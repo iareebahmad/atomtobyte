@@ -4,7 +4,7 @@
 
 <section class="section">
     <div class="container">
-        <div class="row">
+        <div class="row justify-content-between">
             {{ range .Pages.ByWeight }}
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="flip-card mx-auto">
@@ -13,12 +13,11 @@
 	                        <img src="{{ .Params.image | absURL }}" alt="{{.Name}}" height="200" width="200" class="profile rounded-circle">
 	                    </div>
 	                    <div class="flip-card-back align-items-center">
-	                        <h2>{{ .Params.name }} </h2>
+	                        <h2 style="font-size: 1.5em">{{ .Params.name }} </h2>
 	                        <h4>{{ .Title }} </h4>
 	                        <br>
 	                        <div class="social-icons-flip d-flex flex-row justify-content-center">
 	                            <a href="{{ .Params.linkedin | safeURL }}" target="_blank"><i class="ti-linkedin"></i></a>
-	                            <a href="{{ .Params.github | safeURL }}" target="_blank"><i class="ti-github"></i></a>
 	                        </div>
 	                    </div>
 	                </div>

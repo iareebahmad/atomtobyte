@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Curated modules on Computer Basics</title>
+      <title>Computer Basics</title>
       <link>https://atomtobyte.netlify.app/blog/post-6/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
@@ -21,16 +21,7 @@
     </item>
     
     <item>
-      <title>Discussions on social topics</title>
-      <link>https://atomtobyte.netlify.app/blog/post-4/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/blog/post-4/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
-    </item>
-    
-    <item>
-      <title>Lecture modules for Computer Programming</title>
+      <title>Computer Programming</title>
       <link>https://atomtobyte.netlify.app/blog/post-2/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
@@ -39,11 +30,29 @@
     </item>
     
     <item>
-      <title>Participation Events</title>
+      <title>Cyber Awareness</title>
+      <link>https://atomtobyte.netlify.app/blog/post-5/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/blog/post-5/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Outreach Events</title>
       <link>https://atomtobyte.netlify.app/blog/post-3/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
       <guid>https://atomtobyte.netlify.app/blog/post-3/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Participation Events</title>
+      <link>https://atomtobyte.netlify.app/blog/post-4/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/blog/post-4/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
@@ -53,15 +62,6 @@
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
       <guid>https://atomtobyte.netlify.app/blog/post-1/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
-    </item>
-    
-    <item>
-      <title>Video Lecture series on Cyber Awareness</title>
-      <link>https://atomtobyte.netlify.app/blog/post-5/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/blog/post-5/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
