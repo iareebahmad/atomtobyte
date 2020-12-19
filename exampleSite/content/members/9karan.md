@@ -1,7 +1,7 @@
 ---
-title: "President"
-name: "abc def"
-linkedin: "#"
+title: "Mgmt. Executive"
+name: "Karan Singh"
+linkedin: ""
 github: "#"
 image: "images/avatar.jpg"
 draft: false

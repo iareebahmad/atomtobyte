@@ -3,7 +3,7 @@ title: "Mgmt. Executive"
 name: "Yashaswi Jain"
 linkedin: "https://www.linkedin.com/in/yashaswi-jain-a59334156"
 github: "#"
-image: "images/avatar.jpg"
+image: "images/members/yashu.jpeg"
 draft: false
 weight: 5
 ---

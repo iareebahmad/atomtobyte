@@ -1,9 +1,9 @@
 ---
-title: "President"
-name: "abc def"
+title: "Member"
+name: "Sannu Singh"
 linkedin: "#"
 github: "#"
-image: "images/avatar.jpg"
+image: "images/members/sannu.jpeg"
 draft: false
 weight: 14
 ---

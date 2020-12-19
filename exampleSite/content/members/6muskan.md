@@ -1,9 +1,9 @@
 ---
 title: "Mgmt. Executive"
-name: "Princy"
+name: "Muskan"
 linkedin: ""
 github: "#"
 image: "images/a2.jpg"
 draft: false
-weight: 10
+weight: 6
 ---

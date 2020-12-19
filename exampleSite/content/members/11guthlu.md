@@ -1,6 +1,6 @@
 ---
-title: "President"
-name: "abc def"
+title: "Member"
+name: "Aditya Anand"
 linkedin: "#"
 github: "#"
 image: "images/avatar.jpg"

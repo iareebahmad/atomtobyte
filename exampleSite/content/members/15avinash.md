@@ -1,9 +1,9 @@
 ---
-title: "President"
-name: "abc def"
+title: "Member"
+name: "Avinash Pareek"
 linkedin: "#"
 github: "#"
-image: "images/avatar.jpg"
+image: "images/members/avinash.jpeg"
 draft: false
 weight: 15
 ---

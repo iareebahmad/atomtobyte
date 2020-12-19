@@ -1,6 +1,6 @@
 ---
-title: "President"
-name: "abc def"
+title: "Content Curator"
+name: "Lokesh"
 linkedin: "#"
 github: "#"
 image: "images/avatar.jpg"
