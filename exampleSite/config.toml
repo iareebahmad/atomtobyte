@@ -88,10 +88,9 @@ logo_width = "200px"
 description = "This is meta description"
 author = "Themefisher"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://submit-form.com/Lw1kvbWf"
 
 ########### footer content ##########
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 # copyright
 copyright = ""
 

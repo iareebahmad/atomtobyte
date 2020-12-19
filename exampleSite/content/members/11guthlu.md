@@ -3,7 +3,7 @@ title: "Member"
 name: "Aditya Anand"
 linkedin: "#"
 github: "#"
-image: "images/avatar.jpg"
+image: "images/members/aditya.png"
 draft: false
 weight: 11
 ---

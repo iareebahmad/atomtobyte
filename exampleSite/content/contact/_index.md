@@ -7,8 +7,7 @@ draft: false
 ---
 
 
-### Contact us
 
-* **Phone: +91 93040 29715** 
-* **Mail: atomtobyte@gmail.com**
+
+
 

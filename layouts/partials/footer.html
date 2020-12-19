@@ -17,7 +17,7 @@
           {{ end }}
         </ul>
       </div> -->
-      <div class="col-md-6 col-sm-6 mb-5">
+      <div id="chngalgn" class="col-md-6 col-sm-6 mb-5">
         <h3 style="color: white !important" class="mb-4">Support</h3>
         <ul class="list-unstyled footer-list">
           {{ range site.Menus.support }}
@@ -27,7 +27,11 @@
       </div>
       <div class="col-md-6 col-sm-6 mb-5" style="text-align: center">
         <a class="d-block mb-3" href="{{ site.BaseURL }}"><img height="150" width="100" class="img-fluid" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a>
-        <p style="color: white !important" class="mb-4">{{ site.Params.footer_content | markdownify }}</p>
+        <p style="color: white !important" class="mb-4">
+        	<h6 style="color: white">+91 93040 29715</h6>
+        	<a style="color: white" href="mailto: atomtobyte@gmail.com">atomtobyte@gmail.com</a>
+        	<br>
+        </p>
         
         <ul class="list-inline social-icons">
           {{ range site.Params.social }}
