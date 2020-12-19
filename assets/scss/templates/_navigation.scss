@@ -10,15 +10,15 @@
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: $text-color-dark;
+  color: white;
 
   &:hover {
-    color: white;
+    color: yellow;
   }
 }
 
 .current-link{
-    color: white !important;
+    color: yellow !important;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {

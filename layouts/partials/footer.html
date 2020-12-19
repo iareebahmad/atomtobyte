@@ -18,7 +18,7 @@
         </ul>
       </div> -->
       <div class="col-md-6 col-sm-6 mb-5">
-        <h3 class="mb-4">Support</h3>
+        <h3 style="color: white !important" class="mb-4">Support</h3>
         <ul class="list-unstyled footer-list">
           {{ range site.Menus.support }}
           <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
@@ -27,7 +27,7 @@
       </div>
       <div class="col-md-6 col-sm-6 mb-5" style="text-align: center">
         <a class="d-block mb-3" href="{{ site.BaseURL }}"><img height="150" width="100" class="img-fluid" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a>
-        <p class="mb-4">{{ site.Params.footer_content | markdownify }}</p>
+        <p style="color: white !important" class="mb-4">{{ site.Params.footer_content | markdownify }}</p>
         
         <ul class="list-inline social-icons">
           {{ range site.Params.social }}
