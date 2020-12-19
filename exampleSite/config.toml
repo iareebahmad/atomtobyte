@@ -111,14 +111,14 @@ link = "contact"
 [[params.social]]
 title = "youtube"
 icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://youtube.com/channel/UCkpKr0tEQg9xGNmtYgpJUGg"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://instagram.com/atomtobyte?igshid=1rmhs0mv4800n"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/atom-to-byte"

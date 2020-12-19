@@ -5,5 +5,5 @@ linkedin: "https://www.linkedin.com/in/venkatesh-korukonda-a905b0195"
 github: "#"
 image: "images/members/venky.jpeg"
 draft: false
-weight: 3
+weight: 2
 ---

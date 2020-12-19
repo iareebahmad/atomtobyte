@@ -5,5 +5,5 @@ linkedin: "#"
 github: "#"
 image: "images/avatar.jpg"
 draft: false
-weight: 12
+weight: 16
 ---

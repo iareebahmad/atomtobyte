@@ -5,5 +5,5 @@ linkedin: "#"
 github: "#"
 image: "images/members/himanshu.jpeg"
 draft: false
-weight: 16
+weight: 12
 ---
