@@ -16,7 +16,7 @@ Social Talks, is a series of talk shows hosted by the team of atom to byte aimin
 Different people from different parts of the country and from different walks of life are invited to put forth their opinion and help people develop a better understanding of the society.<br> 
 A lot of important social topics remain undiscussed or misunderstood, because of social prejudice, patriarchal society or political pressure. We, at Atom to Byte, try to discuss and understand those untalked topics so that the upcoming torchbearers could understand the society in a better way.
 
-<hr>
+
 
 
 
@@ -27,7 +27,6 @@ A lot of important social topics remain undiscussed or misunderstood, because of
 <hr>
 <br>
 {{< youtube bIN0u9zqGmA >}}
-<hr>
 <br>
 <br>
 
