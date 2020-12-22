@@ -20,26 +20,14 @@ Atom To Byte took the responsibility to preach and propagate the knowledge and e
 {{< youtube HPdzkHqFSIo >}}
 <br>
 <br>
-<object data="https://atomtobyte.netlify.app/images/blog/m1.pdf" type="application/pdf">
-    <embed src="https://atomtobyte.netlify.app/images/blog/m1.pdf" width="100%" height="400px">
-        <p style="text-align: center"><a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="https://drive.google.com/file/d/1q0bnk0frnAwCZ5aJuq3Hka-7tYfP7vz3/preview" width="100%" height="480"></iframe>
 <br>
 <hr>
 <br>
-<object data="https://atomtobyte.netlify.app/images/blog/m2.pdf" type="application/pdf">
-    <embed src="https://atomtobyte.netlify.app/images/blog/m2.pdf" width="100%" height="400px">
-        <p style="text-align: center"><a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="https://drive.google.com/file/d/1PzjVJPLisBWOoWww9rsOqbJvdoDWj-xZ/preview" width="100%" height="480"></iframe>
 <br>
 <hr>
 <br>
-<object data="https://atomtobyte.netlify.app/images/blog/m3.pdf" type="application/pdf">
-    <embed src="https://atomtobyte.netlify.app/images/blog/m3.pdf" width="100%" height="400px">
-        <p style="text-align: center"><a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="https://drive.google.com/file/d/1ZvtxcDa0KzDQiZzM5npiFw6mAWWyq2tL/preview" width="100%" height="480"></iframe>
 <br>
 <br>
