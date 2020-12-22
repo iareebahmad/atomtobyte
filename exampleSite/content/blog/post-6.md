@@ -20,5 +20,26 @@ Atom To Byte took the responsibility to preach and propagate the knowledge and e
 {{< youtube HPdzkHqFSIo >}}
 <br>
 <br>
-
-
+<object data="https://atomtobyte.netlify.app/images/blog/m1.pdf" type="application/pdf">
+    <embed src="https://atomtobyte.netlify.app/images/blog/m1.pdf" width="100%" height="400px">
+        <p style="text-align: center"><a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+<br>
+<hr>
+<br>
+<object data="https://atomtobyte.netlify.app/images/blog/m2.pdf" type="application/pdf">
+    <embed src="https://atomtobyte.netlify.app/images/blog/m2.pdf" width="100%" height="400px">
+        <p style="text-align: center"><a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+<br>
+<hr>
+<br>
+<object data="https://atomtobyte.netlify.app/images/blog/m3.pdf" type="application/pdf">
+    <embed src="https://atomtobyte.netlify.app/images/blog/m3.pdf" width="100%" height="400px">
+        <p style="text-align: center"><a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+<br>
+<br>

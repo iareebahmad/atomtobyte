@@ -11,29 +11,29 @@
     
     
     <item>
-      <title>Advisor</title>
-      <link>https://atomtobyte.netlify.app/members/1anam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/1anam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Founder</title>
-      <link>https://atomtobyte.netlify.app/members/2areeb/</link>
+      <link>https://atomtobyte.netlify.app/members/1areeb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/2areeb/</guid>
+      <guid>https://atomtobyte.netlify.app/members/1areeb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Co-founder</title>
-      <link>https://atomtobyte.netlify.app/members/3venky/</link>
+      <link>https://atomtobyte.netlify.app/members/2venky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/3venky/</guid>
+      <guid>https://atomtobyte.netlify.app/members/2venky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advisor</title>
+      <link>https://atomtobyte.netlify.app/members/3anam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/3anam/</guid>
       <description></description>
     </item>
     
@@ -56,11 +56,11 @@
     </item>
     
     <item>
-      <title>Mgmt. Executive</title>
-      <link>https://atomtobyte.netlify.app/members/6muskan/</link>
+      <title>Member</title>
+      <link>https://atomtobyte.netlify.app/members/6guthlu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/6muskan/</guid>
+      <guid>https://atomtobyte.netlify.app/members/6guthlu/</guid>
       <description></description>
     </item>
     
@@ -83,74 +83,74 @@
     </item>
     
     <item>
-      <title>Mgmt. Executive</title>
-      <link>https://atomtobyte.netlify.app/members/9karan/</link>
+      <title>Member</title>
+      <link>https://atomtobyte.netlify.app/members/9nishant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/9karan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mgmt. Executive</title>
-      <link>https://atomtobyte.netlify.app/members/10princy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/10princy/</guid>
+      <guid>https://atomtobyte.netlify.app/members/9nishant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/11guthlu/</link>
+      <link>https://atomtobyte.netlify.app/members/10sannu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/11guthlu/</guid>
+      <guid>https://atomtobyte.netlify.app/members/10sannu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>https://atomtobyte.netlify.app/members/11avinash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/11avinash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>https://atomtobyte.netlify.app/members/12himanshu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/12himanshu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mgmt. Executive</title>
+      <link>https://atomtobyte.netlify.app/members/13karan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/13karan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mgmt. Executive</title>
+      <link>https://atomtobyte.netlify.app/members/14princy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/14princy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mgmt. Executive</title>
+      <link>https://atomtobyte.netlify.app/members/15muskan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/members/15muskan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content Curator</title>
-      <link>https://atomtobyte.netlify.app/members/12lokesh/</link>
+      <link>https://atomtobyte.netlify.app/members/16lokesh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/12lokesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/13nishant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/13nishant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/14sannu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/14sannu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/15avinash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/15avinash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/16himanshu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/16himanshu/</guid>
+      <guid>https://atomtobyte.netlify.app/members/16lokesh/</guid>
       <description></description>
     </item>
     

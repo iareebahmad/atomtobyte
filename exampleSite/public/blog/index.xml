@@ -12,12 +12,21 @@
     
     
     <item>
+      <title>Awareness</title>
+      <link>https://atomtobyte.netlify.app/blog/post-3/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/blog/post-3/</guid>
+      <description>Social Talks, is a series of talk shows hosted by the team of atom to byte aiming at bringing up various topics for discussion and developing a better understanding towards various aspects of life of people around us.</description>
+    </item>
+    
+    <item>
       <title>Computer Basics</title>
       <link>https://atomtobyte.netlify.app/blog/post-6/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
       <guid>https://atomtobyte.netlify.app/blog/post-6/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+      <description>Atom To Byte took the responsibility to preach and propagate the knowledge and education beyond the four walls of the classes and thus ultimately making education accessable and ubiquitous.</description>
     </item>
     
     <item>
@@ -26,7 +35,7 @@
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
       <guid>https://atomtobyte.netlify.app/blog/post-2/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+      <description>Social Talks, is a series of talk shows hosted by the team of atom to byte aiming at bringing up various topics for discussion and developing a better understanding towards various aspects of life of people around us.</description>
     </item>
     
     <item>
@@ -35,16 +44,7 @@
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
       <guid>https://atomtobyte.netlify.app/blog/post-5/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
-    </item>
-    
-    <item>
-      <title>Outreach Events</title>
-      <link>https://atomtobyte.netlify.app/blog/post-3/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/blog/post-3/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+      <description>Social Talks, is a series of talk shows hosted by the team of atom to byte aiming at bringing up various topics for discussion and developing a better understanding towards various aspects of life of people around us.</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
       <guid>https://atomtobyte.netlify.app/blog/post-4/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+      <description>Social Talks, is a series of talk shows hosted by the team of atom to byte aiming at bringing up various topics for discussion and developing a better understanding towards various aspects of life of people around us.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
       <guid>https://atomtobyte.netlify.app/blog/post-1/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+      <description>Social Talks, is a series of talk shows hosted by the team of atom to byte aiming at bringing up various topics for discussion and developing a better understanding towards various aspects of life of people around us.</description>
     </item>
     
   </channel>
