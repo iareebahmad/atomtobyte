@@ -50,17 +50,17 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "Our Journey"
+    - title : "Our Vision"
       images:
       - "images/small.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "<i>\"Education is the most powerful weapon which you can use to change the world.\"</i><br><br>These are some of the very famous lines of Nelson Mandela, which contain a lot more meaning than what they convey. Education is one of the most important basic right that one ought to get, and still, the results are very discouraging. It is quality that matters, and sadly, most of the children are deprived of quality education still today.<p>We primaraliy focus on ways to reach this section of society and do our best to uplift the fallen standards. It all began just few months before, but we have grown a lot in this time and hope to continue doing so in future too. It is a fact quite admittable, that the vision we have taken up, is far more involving than what we can give as a bunch of volunteers, but it has always been about the journey and not the goal. And that fuels our vision.</p>"
 
         
     # service item loop
     - title : "Our growth"
       images:
       - "images/small2.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "It would be quite vague to measure our growth on concrete terms. We are no enterprise, who would analyse profits to measure growth. So lets be very clear on what we have done till now, and how have we grown in these days.<p>We began our journey with 2 members in July 2020 and have a team of 18 volunteers currently, who are working in every possible way to help us grow everyday. Community outreach is the most important aspect of our work, and we began by reaching out to people to analyse what they were lacking in terms of quality. It was all in pace, till the pandemic hit us hard, and it became quite impossible to reach out to people physically. And it opened an oppurtunity to start the things remotely - in the new normal fashion. And there has been no turning back since then.</p><p>Currently, we publish modules, in both written and AV form, which encompass a plethora of domains, ranging from technical ones to social ones. We also conduct talks on various social topics, and run awareness campaigns. We also curate modules on technical topics like Programming fundamentals and Ethical Hacking, and share a lot of tit-bits in the form of quizzes and info-chunks on various topics. Our reach is not that diverse as yet, but it is getting positive responses and that is the most important factor of our growth.</p>"
       
         
      

@@ -181,7 +181,7 @@ textarea.form-control {
 
 @media (max-width: 767px){
     #imgjoin{
-        padding-left: 10% !important;
+        padding-left: 0px !important;
         padding-top: 50px;
     }
 }
@@ -189,5 +189,16 @@ textarea.form-control {
 @media (max-width: 575px){
     #chngalgn{
         text-align:center;
+    }
+    #chomsphotu{
+        width: 320px;
+        height: 200px;
+    }
+}
+
+@media (max-width: 350px){
+    #chomsphotu{
+        width: 250px;
+        height: 150px;
     }
 }
