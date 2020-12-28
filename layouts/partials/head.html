@@ -17,6 +17,7 @@
   {{ $style := resources.Get "scss/style.scss" | toCSS | minify }}
   <link href="{{ $style.Permalink }}" rel="stylesheet" media="screen"/>
   <link rel="shortcut icon" href="{{ `images/logo.png` | absURL }}">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">

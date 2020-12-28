@@ -172,6 +172,13 @@ textarea.form-control {
   }
 }
 
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: #1686DA;
+}
+
 @media (max-width: 575px){
     #chngalgn{
         text-align:center;
