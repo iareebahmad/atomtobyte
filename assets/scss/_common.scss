@@ -179,6 +179,13 @@ textarea.form-control {
   background-color: #1686DA;
 }
 
+@media (max-width: 767px){
+    #imgjoin{
+        padding-left: 10% !important;
+        padding-top: 50px;
+    }
+}
+
 @media (max-width: 575px){
     #chngalgn{
         text-align:center;

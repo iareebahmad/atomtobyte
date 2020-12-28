@@ -1,12 +1,12 @@
 ####################### Banner #########################
 banner:
   title : "Because Education Is Ubiquitous"
-  image : "images/small.svg"
+  image : "https://www.youtube.com/embed/ZPV8-z5EdcY"
   content : "<br><br>Atom To Byte is a social service community dedicated to make computer education ubiquitous and to spread the awareness among the people about the need to know the computers. We focus mainly on the students who are not having adequate resources to study computers. We, as a team work for bringing small but significant changes in the society, so that the people could develop scientific thinking and approach to solve their day to day tasks. We believe in the upcoming and ever-growing technologies such as Artificial Intelligence,  Big Data and Cyber Security. This step may seem to be small, but is significant and with our dedicated team of volunteers, we can do wonders.<br><br>"
   button:
-    enable : true
-    label : "Contact Us"
-    link : "contact"
+        enable : true
+        label : "Contact Us"
+        link : "contact"  
 
 ##################### Feature ##########################
 feature:
@@ -50,37 +50,30 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "Our Journey"
       images:
-      - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
+      - "images/small.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
+
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Our growth"
       images:
-      - "images/service-1.png"
+      - "images/small2.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
+      
         
-    # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
-      images:
-      - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
+     
+
+contact:
+    enable : true
+    title : "Join Us"
+    image: "images/join.png"
+    content : "We don't earn money but we do earn love, warmth and most importantly, a sense of responsibility towards the society.We are just a dedicated group of students who have pledged to serve the society with knowledge and education to bring a bright future for the nation.<p>If you feel the same within you, do join us and get to serve the society with your knowledge and skills. Just fill out the form in the link below and let us know.</p>"
+    button:
         enable : true
-        label : "Check it out"
-        link : "#"
-    
+        label : "Reach out to us"
+        link : "contact"    
         
 ##################### Call to action #####################
 call_to_action:
