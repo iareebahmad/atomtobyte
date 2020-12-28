@@ -28,6 +28,8 @@ link = "plugins/themify-icons/themify-icons.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/extra.css"
+[[params.plugins.css]]
+link = "plugins/aos.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -36,6 +38,8 @@ link = "plugins/jQuery/jquery.min.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/aos.js"
 
 
 ############################## navigation ###############################
@@ -62,8 +66,8 @@ URL = "contact"
 weight = 4
 
 [[menu.main]]
-name = "FAQ"
-URL = "faq"
+name = "New"
+URL = "new"
 weight = 5
 
 
