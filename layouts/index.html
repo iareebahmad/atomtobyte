@@ -14,7 +14,7 @@
         <br>
         {{ if .button.enable }}
         {{ with .button }}
-        <div data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="500" data-aos-delay="1800"><a href="{{ .link | safeURL }}" class="btn btn-primary">{{ .label }}</a></div>
+        <div data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="500" data-aos-delay="1500"><a href="{{ .link | safeURL }}" class="btn btn-primary">{{ .label }}</a></div>
         {{ end }}
         {{ end }}
         <br>
@@ -23,7 +23,9 @@
         <br>
         <br>
         <br>
-        <iframe data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="500" data-aos-delay="500" id="chomsphotu" width="720" height="420" src="{{ .image | absURL }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+          <iframe data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="500" data-aos-delay="1800" src="{{ .image | absURL }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen="" title="YouTube Video"></iframe>
+        </div>
       </div>
     </div>
   </div>

@@ -54,7 +54,7 @@ weight = 1
 
 [[menu.main]]
 name = "Events"
-URL = "blog"
+URL = "events"
 weight = 2
 
 [[menu.main]]
@@ -75,16 +75,29 @@ weight = 5
 
 # Support 
 [[menu.support]]
-name = "Privacy Policy"
-URL = "privacy-policy"
+name = "Home"
+URL = ""
+weight = 1
 
 [[menu.support]]
-name = "Terms & Conditions"
-URL = "terms-conditions"
+name = "Events"
+URL = "events"
+weight = 2
 
 [[menu.support]]
-name = "FAQ"
-URL = "faq"
+name = "Members"
+URL = "members"
+weight = 3
+
+[[menu.support]]
+name = "Contact"
+URL = "contact"
+weight = 4
+
+[[menu.support]]
+name = "New"
+URL = "new"
+weight = 5
 
 #################### default parameters ################################
 [params]
@@ -92,7 +105,7 @@ logo = "images/logo.png"
 logo_width = "200px"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Prichoms"
 # contact form action
 contact_form_action = "https://submit-form.com/Lw1kvbWf"
 
