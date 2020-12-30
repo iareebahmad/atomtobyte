@@ -12,9 +12,7 @@ draft: false
 ---
 
 
-Social Talks, is a series of talk shows hosted by the team of atom to byte aiming at bringing up various topics for discussion and developing a better understanding towards various aspects of life of people around us.<br> 
-Different people from different parts of the country and from different walks of life are invited to put forth their opinion and help people develop a better understanding of the society.<br> 
-A lot of important social topics remain undiscussed or misunderstood, because of social prejudice, patriarchal society or political pressure. We, at Atom to Byte, try to discuss and understand those untalked topics so that the upcoming torchbearers could understand the society in a better way.
+The main reason for many vices still prevailing in the society is because of lack of awareness,and thus we felt the need to enaware more and more people around us and to lead our nation towards a more cultivated society. We take small steps to educate, enaware and guide the way to a better future.
 
 
 
