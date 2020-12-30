@@ -24,7 +24,7 @@
       {{ end }}
       {{ $paginator := .Paginate .Data.Pages }}
       {{ range $paginator.Pages }}
-      <div class="col-lg-4 col-sm-6 mb-5">
+      <div class="col-lg-4 col-sm-6 mb-5 mx-auto">
         <div class="card border-0">
           <img src="{{ .Params.image |absURL }}" height="350" alt="{{ .Title }}" class="card-img rounded-lg mb-4">
           <div class="card-body p-0" style="text-align: center">
