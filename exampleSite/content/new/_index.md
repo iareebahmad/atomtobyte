@@ -4,15 +4,22 @@ date: 2020-04-18T10:07:21+06:00
 # post draft
 draft: false
 ---
-<b>Social talks Episode-3 on 14Th Feb. Stay tuned!</b>
+<h2><center>Upcoming</center></h2>
+<br>
+<br>
+<b>Social talks Episode-3 on 14th Feb.</b>
 <br>
 <hr>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <img src="images/new1.jpeg">
+<div style="position: relative; height: auto; overflow: auto;">
+  <img src="images/new1.jpeg" height="auto">
 </div>
 <br>
 <hr>
+<hr>
+<br>
+<br>
+<h2><center>Recent Updates</center></h2>
 <br>
 <b>Presenting before you, our own calender for the year 2021:-</b>
 <br>

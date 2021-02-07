@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Events on Atom To Byte</title>
+    <link>https://atomtobyte.netlify.app/events/</link>
+    <description>Recent content in Our Events on Atom To Byte</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate>
+    
+	<atom:link href="https://atomtobyte.netlify.app/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Awareness</title>
+      <link>https://atomtobyte.netlify.app/events/post-3/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/events/post-3/</guid>
+      <description>The main reason for many vices still prevailing in the society is because of lack of awareness,and thus we felt the need to enaware more and more people around us and to lead our nation towards a more cultivated society.</description>
+    </item>
+    
+    <item>
+      <title>Computer Basics</title>
+      <link>https://atomtobyte.netlify.app/events/post-6/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/events/post-6/</guid>
+      <description>Atom To Byte took the responsibility to preach and propagate the knowledge and education beyond the four walls of the classes and thus ultimately making education accessable and ubiquitous.</description>
+    </item>
+    
+    <item>
+      <title>Computer Programming</title>
+      <link>https://atomtobyte.netlify.app/events/post-2/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/events/post-2/</guid>
+      <description>Computer programming is an initiative taken by us to train people in the basics of computer programming for a better understanding of the nuances of the domain, and the modules are in C language.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Awareness</title>
+      <link>https://atomtobyte.netlify.app/events/post-5/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/events/post-5/</guid>
+      <description>With the world gradually growing into a digital hub, Cyber Security Awareness is much required to know about the current standards and about cyber threats, policies, and actions that lead to a higher level of security culture.</description>
+    </item>
+    
+    <item>
+      <title>Social Talks</title>
+      <link>https://atomtobyte.netlify.app/events/post-1/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/events/post-1/</guid>
+      <description>Social Talks, is a series of talk shows hosted by the team of atom to byte aiming at bringing up various topics for discussion and developing a better understanding towards various aspects of life of people around us.</description>
+    </item>
+    
+  </channel>
+</rss>
