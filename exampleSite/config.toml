@@ -135,9 +135,14 @@ link = "https://youtube.com/channel/UCkpKr0tEQg9xGNmtYgpJUGg"
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "https://instagram.com/atomtobyte?igshid=1rmhs0mv4800n"
+link = "https://instagram.com/atomtobyte"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://www.linkedin.com/company/atom-to-byte"
+
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/atomtobyte"

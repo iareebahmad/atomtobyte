@@ -21,6 +21,10 @@ draft: false
 <br>
 <h2><center>Recent Updates</center></h2>
 <br>
+<b>Atom to Byte welcomes Ms. Sanjana Singh as a new member and the new Content writer of the team.</b>
+<br>
+<hr>
+<br>
 <b>Presenting before you, our own calender for the year 2021:-</b>
 <br>
 <hr>
