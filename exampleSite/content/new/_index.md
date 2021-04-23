@@ -4,23 +4,22 @@ date: 2020-04-18T10:07:21+06:00
 # post draft
 draft: false
 ---
-<h2><center>Upcoming</center></h2>
 <br>
 <br>
-<b>Social talks Episode-3 on 14th Feb.</b>
-<br>
+<div style="position: relative; height: auto; overflow: auto;">
+  <a href="https://selfregistration.cowin.gov.in/"><img src="images/new2.jpeg" height="auto"></a>
+</div>
 <hr>
+<br>
+<br>
+<h2><center>Recent Updates</center></h2>
+<br>
 <br>
 <div style="position: relative; height: auto; overflow: auto;">
   <img src="images/new1.jpeg" height="auto">
 </div>
 <br>
 <hr>
-<hr>
-<br>
-<br>
-<h2><center>Recent Updates</center></h2>
-<br>
 <b>Atom to Byte welcomes Ms. Sanjana Singh as a new member and the new Content writer of the team.</b>
 <br>
 <hr>
