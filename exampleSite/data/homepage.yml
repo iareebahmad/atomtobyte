@@ -1,7 +1,8 @@
 ####################### Banner #########################
 banner:
   title : "Because Education Is Ubiquitous"
-  image : "https://www.youtube.com/embed/ZPV8-z5EdcY"
+  image: "images/covid.jpeg"
+  imagevid : "https://www.youtube.com/embed/ZPV8-z5EdcY"
   content : "<br><br>Atom To Byte is a social service community dedicated to make computer education ubiquitous and to spread the awareness among the people about the need to know the computers. We focus mainly on the students who are not having adequate resources to study computers. We, as a team work for bringing small but significant changes in the society, so that the people could develop scientific thinking and approach to solve their day to day tasks. We believe in the upcoming and ever-growing technologies such as Artificial Intelligence,  Big Data and Cyber Security. This step may seem to be small, but is significant and with our dedicated team of volunteers, we can do wonders.<br><br>"
   button:
         enable : true
