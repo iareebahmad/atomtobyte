@@ -7,7 +7,7 @@ draft: false
 ---
 
 
-For, more updates, Subscribe to our newsletter <a href="prichoms12.co">here</a>
+For, more updates, Subscribe to our newsletter 
 
 
 
