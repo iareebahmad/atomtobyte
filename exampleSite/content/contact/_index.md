@@ -7,7 +7,7 @@ draft: false
 ---
 
 
-For, more updates, Subscribe to our newsletter 
+<h1>Or</h1> 
 
 
 
