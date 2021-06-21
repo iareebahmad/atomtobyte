@@ -7,7 +7,13 @@ draft: false
 <br>
 <br>
 <div style="position: relative; height: auto; overflow: auto;">
-  <a href="https://selfregistration.cowin.gov.in/"><img src="images/new2.jpeg" height="auto"></a>
+  <a href="https://sakshamsupport.netlify.app/" target=blank><img src="images/saknew.png" height="auto"></a>
+</div>
+<hr>
+<br>
+<br>
+<div style="position: relative; height: auto; overflow: auto;">
+  <a href="https://selfregistration.cowin.gov.in/" target=blank><img src="images/new2.jpeg" height="auto"></a>
 </div>
 <hr>
 <br>

@@ -57,11 +57,11 @@
     </item>
     
     <item>
-      <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/6guthlu/</link>
+      <title>Content Curator</title>
+      <link>https://atomtobyte.netlify.app/members/6sanjana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/6guthlu/</guid>
+      <guid>https://atomtobyte.netlify.app/members/6sanjana/</guid>
       <description></description>
     </item>
     
@@ -84,92 +84,29 @@
     </item>
     
     <item>
-      <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/9nishant/</link>
+      <title>Mgmt. Executive</title>
+      <link>https://atomtobyte.netlify.app/members/9princy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/9nishant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/10sannu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/10sannu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/11avinash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/11avinash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/12himanshu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/12himanshu/</guid>
+      <guid>https://atomtobyte.netlify.app/members/9princy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mgmt. Executive</title>
-      <link>https://atomtobyte.netlify.app/members/13karan/</link>
+      <link>https://atomtobyte.netlify.app/members/10karan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/13karan/</guid>
+      <guid>https://atomtobyte.netlify.app/members/10karan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mgmt. Executive</title>
-      <link>https://atomtobyte.netlify.app/members/14princy/</link>
+      <link>https://atomtobyte.netlify.app/members/11muskan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/members/14princy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mgmt. Executive</title>
-      <link>https://atomtobyte.netlify.app/members/15muskan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/15muskan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Content Curator</title>
-      <link>https://atomtobyte.netlify.app/members/16lokesh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/16lokesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/17abhinay/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/17abhinay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Member</title>
-      <link>https://atomtobyte.netlify.app/members/18priyanka/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atomtobyte.netlify.app/members/18priyanka/</guid>
+      <guid>https://atomtobyte.netlify.app/members/11muskan/</guid>
       <description></description>
     </item>
     
@@ -193,10 +130,10 @@
     
     <item>
       <title>Computer Programming</title>
-      <link>https://atomtobyte.netlify.app/events/post-2/</link>
+      <link>https://atomtobyte.netlify.app/events/post-4/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>https://atomtobyte.netlify.app/events/post-2/</guid>
+      <guid>https://atomtobyte.netlify.app/events/post-4/</guid>
       <description>Computer programming is an initiative taken by us to train people in the basics of computer programming for a better understanding of the nuances of the domain, and the modules are in C language.</description>
     </item>
     
@@ -216,6 +153,15 @@
       
       <guid>https://atomtobyte.netlify.app/post-4/</guid>
       <description>Social Talks, is a series of talk shows hosted by the team of atom to byte aiming at bringing up various topics for discussion and developing a better understanding towards various aspects of life of people around us.</description>
+    </item>
+    
+    <item>
+      <title>Saksham</title>
+      <link>https://atomtobyte.netlify.app/events/post-2/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://atomtobyte.netlify.app/events/post-2/</guid>
+      <description>Atom To Byte has initiated a new project, SAKSHAM to help people become capable of helping each other during these tough and trying times of the COVID pandemic, by procuring various leads and information.</description>
     </item>
     
     <item>

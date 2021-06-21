@@ -1,9 +1,9 @@
 ---
 title: "Mgmt. Executive"
-name: "Karan Singh"
+name: "Muskan"
 linkedin: ""
 github: "#"
-image: "images/avatar.jpg"
+image: "images/a2.jpg"
 draft: false
-weight: 13
+weight: 11
 ---
