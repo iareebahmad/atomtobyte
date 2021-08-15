@@ -7,7 +7,7 @@ draft: false
 <br>
 <br>
 <div style="position: relative; height: auto; overflow: auto;">
-  <img src="images/soc4.png" height="auto">
+  <img src="images/soc4.jpeg" height="auto">
 </div>
 <hr>
 <br>
